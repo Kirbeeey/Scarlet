@@ -1,7 +1,7 @@
 {
-    "name": "Scarlet-Launcher",
+    "name": "Selvania-Launcher",
     "preductname": "Scarlet Launcher",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "Launcher Mincraft pour le serveur Scarlet",
     "main": "src/app.js",
     "author": {
